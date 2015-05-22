@@ -17,7 +17,7 @@ It comes in two flavors...
 
 ### Octo
 
-[octo]https://raw.githubusercontent.com/calvinfroedge/octobadge-github-badge/master/example_octo.png
+![octo](https://raw.githubusercontent.com/calvinfroedge/octobadge-github-badge/master/example_octo.png)
 
 ```
 <github-badge user="username_here" badge="octo"></github-badge>
@@ -25,7 +25,7 @@ It comes in two flavors...
 
 ### Octogeek
 
-[octogeek]https://raw.githubusercontent.com/calvinfroedge/octobadge-github-badge/master/example_octogeek.png
+![octogeek](https://raw.githubusercontent.com/calvinfroedge/octobadge-github-badge/master/example_octogeek.png)
 
 ```
 <github-badge user="username_here" badge="octogeek"></github-badge>

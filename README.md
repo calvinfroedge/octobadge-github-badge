@@ -15,6 +15,7 @@ Display a Cool Badge that Shows off Your Github Project Contributions! You can p
 
 It comes in two flavors...
 
+
 ### Octo
 
 ![octo](https://raw.githubusercontent.com/calvinfroedge/octobadge-github-badge/master/example_octo.png)
@@ -26,6 +27,14 @@ It comes in two flavors...
 ### Octogeek
 
 ![octogeek](https://raw.githubusercontent.com/calvinfroedge/octobadge-github-badge/master/example_octogeek.png)
+
+```
+<github-badge user="username_here" badge="octogeek"></github-badge>
+```
+
+## Installing
+
+Just include the JS file before the closing `</body>` tag (you can get a minified version in dist, or use the unminified version), and then use the badge HTML:
 
 ```
 <github-badge user="username_here" badge="octogeek"></github-badge>

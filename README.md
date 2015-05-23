@@ -34,7 +34,7 @@ It comes in two flavors...
 
 ## Installing
 
-Just include the JS file before the closing `</body>` tag (you can get a minified version in dist, or use the unminified version), and then use the badge HTML:
+Just include the JS file before the closing `</body>` tag  (you can get a minified version in dist, or use the unminified version), include the CSS in the `<head>` section, and then use the badge HTML:
 
 ```
 <github-badge user="username_here" badge="octogeek"></github-badge>

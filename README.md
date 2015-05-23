@@ -35,12 +35,12 @@ Just include the JS file before the closing `</body>` tag, include the CSS in th
 
 You can grab these from jsDelivr:
 
-[CSS](https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.js)
+[JS](https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.js)
 ```
 https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.js
 ```
 
-[JS](https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.css)
+[CSS](https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.css)
 ```
 https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.css
 ```

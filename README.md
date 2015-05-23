@@ -37,12 +37,12 @@ You can grab these from jsDelivr:
 
 [JS](https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.js)
 ```
-https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.js
+<script src="//cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.js" type="text/javascript"></script>
 ```
 
 [CSS](https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.css)
 ```
-https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.css
+<link href="//cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.css" rel="stylesheet" type="text/css" />
 ```
 
 ...Then use the badge HTML:

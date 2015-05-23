@@ -31,7 +31,13 @@ Display a Cool Badge that Shows off Your Github Project Contributions! You can p
 
 ## Installing
 
-Just include the JS file before the closing `</body>` tag  (you can get a minified version in dist, or use the unminified version), include the CSS in the `<head>` section, and then use the badge HTML:
+Just include the JS file before the closing `</body>` tag, include the CSS in the `<head>` section.
+
+You can grab these from jsDelivr:
+[CSS](https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.js)
+[JS](https://cdn.jsdelivr.net/octobadge.github/0.0.1/badge.min.css)
+
+...Then use the badge HTML:
 
 ```
 <github-badge user="username_here" badge="octogeek"></github-badge>

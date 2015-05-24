@@ -61,7 +61,7 @@ The badge requires loading data from the Github API. It uses the browsing user's
 
 For most users, there will be 3 API requests needed to load all data, but some users with many contributions and repositories may require more to load all the data.
 
-To make sure users don't quickly use this up, the badge will cache the results of API requests for 1 day. To improve the badge, I think should be a service that you OAuth with which will cache your data from Github's API and allow it to be served from one request. This will avoid unnecessary requests and rate limits. If there is a lot of interest in this project, that will be my next step.
+To make sure users don't quickly use this up, the badge will cache the results of API requests for 1 day. To improve the badge, I think there should be a service that you OAuth with, which will cache your data from Github's API and allow it to be served from one request. This will avoid unnecessary requests and rate limits. If there is a lot of interest in this project, that will be my next step.
 
 ## What needs to be done?
 

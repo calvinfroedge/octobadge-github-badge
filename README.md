@@ -65,7 +65,7 @@ To make sure users don't quickly use this up, the badge will cache the results o
 
 ## What needs to be done?
 
-Testing! I've only tested in Chrome so far. Automated functional tests would be nice. I don't think this project is a good candidate for unit testing (convince me otherwise?).
+Testing! I've only tested in Chrome, Firefox and Safari on OSX so far, and the badge works in all of them. Automated functional tests would be nice. I don't think this project is a good candidate for unit testing (convince me otherwise?).
 
 It would also be cool to have other badges, so if you have a design idea, please reach out to me so I can see about getting it implemented.
 

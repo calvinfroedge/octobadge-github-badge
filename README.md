@@ -1,4 +1,4 @@
-# OctoBadge - Unofficial Github Badge
+# OctoBadge - Unofficial GitHub Badge
 
 ### Octo
 
@@ -16,9 +16,9 @@
 <github-badge user="username_here" badge="octogeek"></github-badge>
 ```
 
-*"When it comes to hiring, I'll take a Github commit log over a resume any day." - John Resig, Creator of jQuery*
+*"When it comes to hiring, I'll take a GitHub commit log over a resume any day." - John Resig, Creator of jQuery*
 
-Display a Cool Badge that Shows off Your Github Project Contributions! You can put this on your website, such as on your blog, to display some things about your Github profile:
+Display a Cool Badge that Shows off Your GitHub Project Contributions! You can put this on your website, such as on your blog, to display some things about your GitHub profile:
 
 - Name
 - Location
@@ -53,7 +53,7 @@ You can grab these from jsDelivr:
 
 ## Considerations
 
-The badge requires loading data from the Github API. It uses the browsing user's public API Github ratelimit, which is 60 requests per hour. The badge makes API requests for the following:
+The badge requires loading data from the GitHub API. It uses the browsing user's public API GitHub ratelimit, which is 60 requests per hour. The badge makes API requests for the following:
 
 - User profile data (name, # of followers, etc.)
 - Repo data (Needed to see how many stars a user has received)
@@ -61,7 +61,7 @@ The badge requires loading data from the Github API. It uses the browsing user's
 
 For most users, there will be 3 API requests needed to load all data, but some users with many contributions and repositories may require more to load all the data.
 
-To make sure users don't quickly use this up, the badge will cache the results of API requests for 1 day. To improve the badge, I think there should be a service that you OAuth with, which will cache your data from Github's API and allow it to be served from one request. This will avoid unnecessary requests and rate limits. If there is a lot of interest in this project, that will be my next step.
+To make sure users don't quickly use this up, the badge will cache the results of API requests for 1 day. To improve the badge, I think there should be a service that you OAuth with, which will cache your data from GitHub's API and allow it to be served from one request. This will avoid unnecessary requests and rate limits. If there is a lot of interest in this project, that will be my next step.
 
 ## What needs to be done?
 
@@ -80,5 +80,5 @@ If you want to get involved, feel free to create an issue. We may set up an IRC 
 Here are some future ideas:
 
 - Allow for hiring inquiries from the badge
-- Allow users to follow directly from badge (if they are logged into Github)
+- Allow users to follow directly from badge (if they are logged into GitHub)
 - Display private contribution data as well as public contribution data in badge
